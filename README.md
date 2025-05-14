@@ -1,2 +1,2 @@
 # keijay
-jack of all trades
+jack of all trades.
